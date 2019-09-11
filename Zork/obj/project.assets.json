@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ty547135\\Desktop\\Zork\\Zork\\Zork\\Zork.csproj",
+      "projectUniqueName": "C:\\Users\\ty547135\\Desktop\\Zork\\Zork\\Zork.csproj",
       "projectName": "Zork",
-      "projectPath": "C:\\Users\\ty547135\\Desktop\\Zork\\Zork\\Zork\\Zork.csproj",
+      "projectPath": "C:\\Users\\ty547135\\Desktop\\Zork\\Zork\\Zork.csproj",
       "packagesPath": "C:\\Users\\ty547135\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ty547135\\Desktop\\Zork\\Zork\\Zork\\obj\\",
+      "outputPath": "C:\\Users\\ty547135\\Desktop\\Zork\\Zork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
